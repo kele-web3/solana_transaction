@@ -14,3 +14,4 @@ pip install solana
 ```
 
 
+捐赠地址：Gen7nFS2XsmxLvgjn5DN1iPeJge5116PSFaUu7q9xCeD
