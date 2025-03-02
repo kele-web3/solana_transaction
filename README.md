@@ -13,5 +13,8 @@ pip install solana
 
 ```
 
+脚本使用的是官方提供的RPC，"https://api.mainnet-beta.solana.com"
+无法高频请求，需要替换为付费RPC
+
 
 捐赠地址：Gen7nFS2XsmxLvgjn5DN1iPeJge5116PSFaUu7q9xCeD
